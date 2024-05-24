@@ -1,4 +1,4 @@
-// Joshua Sanchez, Christopher Deluigi, Alejandro Ortega 
+// Christopher Deluigi
 // Final project 
 //11-10-2023
 
